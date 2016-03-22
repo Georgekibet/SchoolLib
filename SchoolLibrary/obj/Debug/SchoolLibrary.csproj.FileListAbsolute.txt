@@ -1,0 +1,8 @@
+c:\users\gkrug\onedrive\documents\visual studio 2015\Projects\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.exe.config
+c:\users\gkrug\onedrive\documents\visual studio 2015\Projects\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.exe
+c:\users\gkrug\onedrive\documents\visual studio 2015\Projects\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.pdb
+c:\users\gkrug\onedrive\documents\visual studio 2015\Projects\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csprojResolveAssemblyReference.cache
+c:\users\gkrug\onedrive\documents\visual studio 2015\Projects\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.exe
+c:\users\gkrug\onedrive\documents\visual studio 2015\Projects\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.pdb
+c:\users\gkrug\onedrive\documents\visual studio 2015\Projects\SchoolLibrary\SchoolLibrary\bin\Debug\Newtonsoft.Json.dll
+c:\users\gkrug\onedrive\documents\visual studio 2015\Projects\SchoolLibrary\SchoolLibrary\bin\Debug\Newtonsoft.Json.xml
